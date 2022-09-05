@@ -1,0 +1,32 @@
+li{
+ color: green;
+}
+h1{
+  color: aqua;
+  font-size: 50px;
+  border: 2px dashed bisque;
+}
+
+h3{
+  color: aquamarine;
+}
+
+body {
+  background-image: url("https://images6.fanpop.com/image/photos/37800000/Jupiter-Wallpaper-amazing-space-37899127-2560-1600.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.moon{
+  color: red ;
+  font-size: 20px;
+}
+
+.big-text{
+  font-size: 50px;
+}
+
+#europa-text{
+  font-size: 10px;
+  color: chartreuse;
+}
